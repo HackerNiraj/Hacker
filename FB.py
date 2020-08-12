@@ -36,7 +36,7 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    print(" 💗💞Assalamu walaikum💞 ")
+    print(" 💗NiRaJsUgAmSaMbHaV💕 ")
   
     time.sleep(1.5)
     print GG+"  √=============================================√"
