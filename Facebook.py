@@ -35,7 +35,7 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-   print("  sugamNIRAJsambhav sNs")
+   print("  Hacker")
   
     time.sleep(1.5)
     print GG+"  √=============================================√"
